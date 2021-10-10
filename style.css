@@ -1,0 +1,21 @@
+.orange-bg {
+    background-color: #fdf8a2;
+    border-radius: 15px;
+}
+.container{
+    margin-bottom: 80px;
+}
+.carousel-item{
+    padding: 20px 40px;
+}
+.button-bg{
+    background-image: linear-gradient(to bottom, dimgray 0%, black 100%);
+    color: #fff;
+    border: 1px solid black;
+    border-radius: 8px;
+    padding: 9px 25px;
+    cursor: pointer;
+}
+.price{
+    color: crimson;
+}
