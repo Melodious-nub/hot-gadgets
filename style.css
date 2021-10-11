@@ -19,3 +19,12 @@
 .price{
     color: crimson;
 }
+.card{
+    box-shadow: 3px 3px 12px grey;
+}
+.smartphone img{
+    width: 250px;
+}
+.smartphone h3{
+    padding-bottom: 10px;
+}
